@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    color: wheat;
+}
+.Main-title{
+    color: wheat;
+    width: 300px;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+
+header{
+    text-align:start;
+}
+nav{
+    text-align:end;
+}
+article{
+    text-align:center;
+}
+aside{
+    text-align:left;
+    color:bisque;
+}
+footer{
+    font-size: 15px;
+    text-align: right;
+}
